@@ -22,7 +22,6 @@ Welcome to my Coffee Date Invitation Project! This project is designed to ask yo
   - `styles/` : Contains CSS stylesheets for styling the project.
 
 ## Screenshots
-![Coffee Date Invitation Project](/path/to/screenshot.png)
 <img width="1398" alt="image" src="https://github.com/doooooodlesssss/Coffee-Date/assets/73332927/66b4fbb3-e459-4f85-b6c7-d11fe73fb723">
 
 
