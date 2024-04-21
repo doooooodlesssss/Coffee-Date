@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+# Coffee Date Invitation Project 💕☕️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Coffee Date Invitation Project! This project is designed to ask you out on a coffee date in a fun and interactive way. It features cute and girly designs, including animated giphy bears. When you click on the "No" button, it makes it smaller and gives out a different text, and when you click on the "Yes" button, it makes it bigger.
 
-Currently, two official plugins are available:
+## Technologies Used
+- HTML
+- CSS
+- React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run the Project
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the necessary dependencies.
+4. Run `npm start` to start the development server.
+5. Open your web browser and visit `http://localhost:3000` to see the project in action.
 
-## Expanding the ESLint configuration
+## Project Structure
+- `public/` : Contains public assets and the main HTML file.
+- `src/` : Contains the React components, CSS styles, and other project files.
+  - `components/` : Contains React components for the project.
+  - `styles/` : Contains CSS stylesheets for styling the project.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Screenshots
+![Coffee Date Invitation Project](/path/to/screenshot.png)
 
-- Configure the top-level `parserOptions` property like this:
+## Credits
+- Giphy for providing adorable bear gifs used in the project.
+- React for making it easy to build interactive user interfaces.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: "latest",
-    sourceType: "module",
-    project: ["./tsconfig.json", "./tsconfig.node.json"],
-    tsconfigRootDir: __dirname,
-  },
-};
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Feel free to reach out if you have any questions or feedback. Enjoy your coffee date invitation! ☕️💕
