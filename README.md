@@ -6,6 +6,7 @@ Welcome to my Coffee Date Invitation Project! This project is designed to ask yo
 - HTML
 - CSS
 - React
+- TypeScript
 
 ## How to Run the Project
 1. Clone this repository to your local machine.
